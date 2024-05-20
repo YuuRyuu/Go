@@ -1,4 +1,4 @@
-module example/hello
+module Go/ch1/echo1
 
 go 1.22.3
 
