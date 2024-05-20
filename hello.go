@@ -1,3 +1,6 @@
+// Convention to add a description of the package here.
+// hello prints a quote from a function from the quote package.
+// It also prints the command line arguments.
 package main
 
 // This is how you import packages.
